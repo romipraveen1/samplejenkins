@@ -12,7 +12,7 @@ public class Application  extends SpringBootServletInitializer{
 
 	 @RequestMapping("/")
 	    public String home() {
-	        return "Hello Docker World, It's Spring-2.1.6  .v1";
+	        return "Hello Docker World";
 	    }
 
 	public static void main(String[] args) {

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-2.1.6
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Romipraveen
+Implementation-Vendor-Id: com.myfirst.springboot
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring-2.1.6
+Created-By: Maven Integration for Eclipse
+Main-Class: com.myfirst.springboot.Application
+
